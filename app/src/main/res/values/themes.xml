@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="leaf">
+        <item name="cornerSizeTopLeft">70%</item>
+        <!--<item name="cornerFamilyTopLeft">cut</item>-->
+        <item name="cornerSizeBottomRight">70%</item>
+        <!--<item name="cornerFamilyBottomRight">cut</item>-->
+    </style>
 </resources>

@@ -2,4 +2,7 @@
     <string name="app_name">Money Manager</string>
     <string name="logo">Logo</string>
     <string name="add_button">Add Button</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
 </resources>
