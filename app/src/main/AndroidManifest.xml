@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MoneyManager">
         <activity
-            android:name=".HomeActivity"
+            android:name=".ui.addtask.AddTaskActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.splashscreen.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
