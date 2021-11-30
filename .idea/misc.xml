@@ -4,10 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/drawable/ic_trash.xml" value="0.12962962962962962" />
-        <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/activity_add_task.xml" value="0.18" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/activity_add_task.xml" value="0.22" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/activity_main.xml" value="0.12590579710144928" />
-        <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/list_items.xml" value="0.27089337175792505" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MoneyManager/app/src/main/res/layout/list_items.xml" value="0.25" />
       </map>
     </option>
   </component>
